@@ -1,0 +1,176 @@
+body{
+    font-family: sans-serif, monospace;
+    margin: 0;
+    
+}
+
+h1{
+    font-size: 35px;
+}
+
+#name-highlight{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.crimson{
+    color: crimson;
+}
+
+
+.half-width1{
+    width: 30%;
+    float: left;
+    margin-left: 15%;
+    padding: 2%;
+    margin-top: 15%;
+    
+}
+
+.half-width2{
+    width: 30%;
+    float: left;
+    padding: 2%;
+    margin-top: 5%;
+    
+}
+
+.half-width2 img{
+    width: 500px;
+}
+
+
+.half-width3{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.half-width3 img{
+    width: 400px;
+}
+
+.half-width4{
+    width: 30%;
+    float: left;
+    padding: 2%;
+    margin-top: 10%;
+    margin-left: 10%;
+    
+}
+
+.biography{
+    height: 900px;
+}
+
+section{
+    height: 800px;
+    
+}
+
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, deeppink, crimson);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 800px;
+}
+
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: right;
+    height: 500px;
+    }
+
+#my-work{
+    margin-left: 550px;
+}
+
+.work1{
+    width: 20%;
+    float: left;
+    margin-left: 13%;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.work1 img{
+    width: 300px;;
+}
+
+.work2{
+    width: 20%;
+    float: left;
+    margin-left: 0px;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.work2 img{
+    width: 300px;;
+}
+
+.work3{
+    width: 20%;
+    float: left;
+    margin-left: 0px;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.work3 img{
+    width: 300px;;
+}
+
+.client{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 800px%;
+    background-size: 100%;
+    text-align: center;
+}
+
+.client-saying{
+    margin-left: 2%;
+}
+
+.messege-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, deeppink, crimson);
+    padding: 40px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.messege{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    font-size: 12px;
+    text-align: center;
+}
