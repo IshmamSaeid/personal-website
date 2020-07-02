@@ -181,6 +181,7 @@ footer{
     border-radius: 7px;
     background-color: royalblue;
     padding: 10px 20px;
+    font-size: 20px;
 }
 
 .profile-link-git{
@@ -189,6 +190,7 @@ footer{
     border-radius: 7px;
     background-color: gray;
     padding: 10px 20px;
+    font-size: 20px;
 }
 
 .profile-link-tw{
@@ -197,4 +199,5 @@ footer{
     border-radius: 7px;
     background-color: dodgerblue;
     padding: 10px 20px;
+    font-size: 20px;
 }
